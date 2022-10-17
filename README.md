@@ -12,3 +12,4 @@ The first worksheet is the final report. The worksheets following are the indivi
 
 Other forms of analysis were used as well and presented on the final report.
 
+To view the Excel report, click on the link above: "Microsoft Stock Report 2020-2021.xlsx" and then click `Download` on the next page.
